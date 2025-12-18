@@ -12,7 +12,7 @@
 ## ✨ 核心功能 (Features)
 
 调度器支持以下类型的任务调度与执行：
-
+* **Task A–  文件备份：压缩C:\Data为backup.zip，保存至E:\Backup
 * **Task B - 矩阵乘法 (CPU 密集型)**: 模拟耗时计算，周期性执行 (每 5s) 。
 * **Task C - HTTP 请求 (I/O 密集型)**: 请求 GitHub API 并保存响应至 `zen.txt`，立即执行 。
 * **Task D - 课堂提醒 (UI 交互)**: 跨线程发送消息弹窗提醒，周期性执行 (每 1min) 。
