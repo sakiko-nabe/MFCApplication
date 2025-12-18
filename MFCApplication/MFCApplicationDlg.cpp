@@ -193,7 +193,7 @@ void CMFCApplicationDlg::OnBnClickedBtnMatrix()
 	if (task) {
 		// 添加到调度器：延迟 0ms 执行，非周期
 		TaskScheduler::GetInstance()->AddTask(task, 0,true,5000);
-		AfxMessageBox(_T("已添加！"));
+		
 	}
 }
 
@@ -203,8 +203,8 @@ void CMFCApplicationDlg::OnBnClickedBtnRemind()
 	if (task) {
 		// 添加到调度器：延迟 1000ms 执行，周期性 true，间隔 5000ms (5秒)
 		// 这样每隔 5 秒就会弹出一个窗口
-		TaskScheduler::GetInstance()->AddTask(task, 0, true, 2000);
-		AfxMessageBox(_T("已添加！"));
+		TaskScheduler::GetInstance()->AddTask(task, 1000, true, 2000);
+		
 	}
 }
 LRESULT CMFCApplicationDlg::OnUpdateLog(WPARAM wParam, LPARAM lParam)
