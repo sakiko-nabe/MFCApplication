@@ -42,4 +42,6 @@ public:
 	CString m_resMatrix;
 	CString m_resHttp;
 	CString m_resStats;
+	afx_msg void OnBnClickedBtnTestBad();
+	afx_msg void OnBnClickedBtnTestGood();
 };

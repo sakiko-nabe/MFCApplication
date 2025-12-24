@@ -26,6 +26,13 @@ public:
         else if (type == "Backup") {
             return std::make_shared<BackupTask>();
         }
+        else if (type == "DeadlockA") return std::make_shared<DeadlockTaskA>();
+        else if (type == "DeadlockB") return std::make_shared<DeadlockTaskB>();
+        // TaskFactory.h 的 CreateTask 函数里
+
+        if (type == "Unsafe") return std::make_shared<UnsafeTask>();
+        else if (type == "Safe") return std::make_shared<SafeTask>();
+        else if (type == "Victim") return std::make_shared<VictimTask>();
         // 默认返回空或抛出异常
         return nullptr;
     }

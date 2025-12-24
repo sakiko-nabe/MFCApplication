@@ -80,6 +80,8 @@ BEGIN_MESSAGE_MAP(CMFCApplicationDlg, CDialogEx)
 	ON_BN_CLICKED(IDC_BTN_HTTP, &CMFCApplicationDlg::OnBnClickedBtnHttp)
 	ON_MESSAGE(WM_UPDATE_LOG, &CMFCApplicationDlg::OnUpdateLog)
 	ON_BN_CLICKED(IDC_BTN_BACKUP, &CMFCApplicationDlg::OnBnClickedBtnBackup)
+	ON_BN_CLICKED(IDC_BTN_TEST_BAD, &CMFCApplicationDlg::OnBnClickedBtnTestBad)
+	ON_BN_CLICKED(IDC_BTN_TEST_GOOD, &CMFCApplicationDlg::OnBnClickedBtnTestGood)
 END_MESSAGE_MAP()
 
 
@@ -213,6 +215,7 @@ LRESULT CMFCApplicationDlg::OnUpdateLog(WPARAM wParam, LPARAM lParam)
 	if (!pMsg) return 0;
 	std::string msg = *pMsg;
 
+
 	// 1. 常规日志显示 (保留)
 	CListBox* pList = (CListBox*)GetDlgItem(IDC_LIST_LOG);
 	if (pList) {
@@ -240,7 +243,14 @@ LRESULT CMFCApplicationDlg::OnUpdateLog(WPARAM wParam, LPARAM lParam)
 		m_resStats = strFullMsg.Mid(12);
 		UpdateData(FALSE);
 	}
-
+	
+	if (msg.find("证明上一个任务虽崩但未死锁") != std::string::npos) {
+		// 只有在防死锁成功时，才会弹出这个框
+		::MessageBox(NULL,
+			_T("演示成功！\n\n尽管前一个任务发生了“崩溃异常”，\n但 RAII 机制自动清理了现场，\n后续任务得以正常运行！"),
+			_T("防死锁验证通过"),
+			MB_OK | MB_ICONINFORMATION);
+	}
 	delete pMsg;
 	return 0;
 }
@@ -286,4 +296,22 @@ void CMFCApplicationDlg::OnBnClickedBtnBackup()
 
 		AfxMessageBox(_T("备份任务已添加在E:\\请查看。\n请确保 C:\\Data 文件夹存在！"));
 	}
+}
+
+void CMFCApplicationDlg::OnBnClickedBtnTestBad()
+{
+	// ★★★ 修复点：在 CreateTask(...) 后面加上 , 2 ★★★
+	// 2 代表任务优先级，补上这个参数就不报错了
+	TaskScheduler::GetInstance()->AddTask(TaskFactory::CreateTask("Unsafe"), 2);
+	TaskScheduler::GetInstance()->AddTask(TaskFactory::CreateTask("Victim"), 2);
+
+	AfxMessageBox(_T("已启动【死锁演示】！\n请观察日志，Victim 任务会被卡死。"));
+}
+
+void CMFCApplicationDlg::OnBnClickedBtnTestGood()
+{
+	// ★★★ 修复点：同样补上 , 2 ★★★
+	TaskScheduler::GetInstance()->AddTask(TaskFactory::CreateTask("Safe"), 2);
+	TaskScheduler::GetInstance()->AddTask(TaskFactory::CreateTask("Victim"), 2);
+
 }

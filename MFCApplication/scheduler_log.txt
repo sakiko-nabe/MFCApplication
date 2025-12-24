@@ -1797,3 +1797,3104 @@
 [Task] Added task: Class Reminder (Task D)
 [System] Scheduler Started.
 [System] Watchdog Monitor Started.
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Statistics
+[Running] Executing task: Statistics
+[DATA-STATS] 均值: 49.70 (方差计算中...)
+[Finished] Task completed: Statistics
+[Task] Added task: Class Reminder (Task D)
+[Running] Executing task: Class Reminder (Task D)
+[Task] Added task: Matrix Calc
+[Finished] Task completed: Class Reminder (Task D)
+[Task] Added task: Class Reminder (Task D)
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: HTTP GET
+[Running] Executing task: HTTP GET
+[DATA-HTTP] 状态: 200 OK (已保存 zen.txt)
+[Finished] Task completed: HTTP GET
+[Running] Executing task: Class Reminder (Task D)
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Statistics
+[Running] Executing task: Statistics
+[DATA-STATS] 均值: 49.70 (方差计算中...)
+[Finished] Task completed: Statistics
+[Task] Added task: Statistics
+[Running] Executing task: Statistics
+[DATA-STATS] 均值: 51.00 (方差计算中...)
+[Finished] Task completed: Statistics
+[Task] Added task: HTTP GET
+[Running] Executing task: HTTP GET
+[DATA-HTTP] 状态: 200 OK (已保存 zen.txt)
+[Finished] Task completed: HTTP GET
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: File Backup (Task A)
+[Running] Executing task: File Backup (Task A)
+[Finished] Task completed: File Backup (Task A)
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 82 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Class Reminder (Task D)
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Class Reminder (Task D)
+[Task] Added task: Class Reminder (Task D)
+[Finished] Task completed: Class Reminder (Task D)
+[Task] Added task: Class Reminder (Task D)
+[Running] Executing task: Class Reminder (Task D)
+[Finished] Task completed: Class Reminder (Task D)
+[Task] Added task: Class Reminder (Task D)
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Class Reminder (Task D)
+[Finished] Task completed: Class Reminder (Task D)
+[Task] Added task: Class Reminder (Task D)
+[Running] Executing task: Class Reminder (Task D)
+[Finished] Task completed: Class Reminder (Task D)
+[Task] Added task: Class Reminder (Task D)
+[Running] Executing task: Class Reminder (Task D)
+[Finished] Task completed: Class Reminder (Task D)
+[Task] Added task: Class Reminder (Task D)
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Class Reminder (Task D)
+[Finished] Task completed: Class Reminder (Task D)
+[Task] Added task: Class Reminder (Task D)
+[Running] Executing task: Class Reminder (Task D)
+[Finished] Task completed: Class Reminder (Task D)
+[Task] Added task: Class Reminder (Task D)
+[Running] Executing task: Class Reminder (Task D)
+[Finished] Task completed: Class Reminder (Task D)
+[Task] Added task: Class Reminder (Task D)
+[Running] Executing task: Class Reminder (Task D)
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 83 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 82 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: File Backup (Task A)
+[Running] Executing task: File Backup (Task A)
+[Finished] Task completed: File Backup (Task A)
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Deadlock Actor A
+[Task] Added task: Deadlock Actor B
+[Running] Executing task: Deadlock Actor A
+[Actor A] 正在获取资源 A (Write Lock)...
+[Actor A] 已锁定资源 A。正在处理...
+[Actor A] 需要读取资源 B，正在等待锁...
+[Actor A] 成功获取 B，任务完成。
+[Finished] Task completed: Deadlock Actor A
+[Running] Executing task: Deadlock Actor B
+[Actor B] 正在获取资源 B (Write Lock)...
+[Actor B] 已锁定资源 B。正在处理...
+[Actor B] 需要读取资源 A，正在等待锁...
+[Actor B] 成功获取 A，任务完成。
+[Finished] Task completed: Deadlock Actor B
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 82 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Deadlock Actor A
+[Task] Added task: Deadlock Actor B
+[Running] Executing task: Deadlock Actor A
+[Actor A] 正在获取资源 A (Write Lock)...
+[Actor A] 已锁定资源 A。正在处理...
+[Actor A] 需要读取资源 B，正在等待锁...
+[Actor A] 成功获取 B，任务完成。
+[Finished] Task completed: Deadlock Actor A
+[Running] Executing task: Deadlock Actor B
+[Actor B] 正在获取资源 B (Write Lock)...
+[Actor B] 已锁定资源 B。正在处理...
+[Actor B] 需要读取资源 A，正在等待锁...
+[Actor B] 成功获取 A，任务完成。
+[Finished] Task completed: Deadlock Actor B
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Deadlock Actor A
+[Task] Added task: Deadlock Actor B
+[Running] Executing task: Deadlock Actor A
+[Actor A] 正在获取资源 A (Write Lock)...
+[Actor A] 已锁定资源 A。正在处理...
+[Actor A] 需要读取资源 B，正在等待锁...
+[Actor A] 成功获取 B，任务完成。
+[Finished] Task completed: Deadlock Actor A
+[Running] Executing task: Deadlock Actor B
+[Actor B] 正在获取资源 B (Write Lock)...
+[Actor B] 已锁定资源 B。正在处理...
+[Actor B] 需要读取资源 A，正在等待锁...
+[Actor B] 成功获取 A，任务完成。
+[Finished] Task completed: Deadlock Actor B
+[Task] Added task: Statistics
+[Running] Executing task: Statistics
+[DATA-STATS] 均值: 49.70 (方差计算中...)
+[Finished] Task completed: Statistics
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: File Backup (Task A)
+[Running] Executing task: File Backup (Task A)
+[Finished] Task completed: File Backup (Task A)
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: HTTP GET
+[Running] Executing task: HTTP GET
+[DATA-HTTP] 状态: 200 OK (已保存 zen.txt)
+[Finished] Task completed: HTTP GET
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Statistics
+[Running] Executing task: Statistics
+[DATA-STATS] 均值: 49.70 (方差计算中...)
+[Finished] Task completed: Statistics
+[Task] Added task: HTTP GET
+[Running] Executing task: HTTP GET
+[DATA-HTTP] 状态: 200 OK (已保存 zen.txt)
+[Finished] Task completed: HTTP GET
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Deadlock Actor A
+[Task] Added task: Deadlock Actor B
+[Running] Executing task: Deadlock Actor A
+[Actor A] 正在获取资源 A (Write Lock)...
+[Actor A] 已锁定资源 A。正在处理...
+[Actor A] 需要读取资源 B，正在等待锁...
+[Actor A] 成功获取 B，任务完成。
+[Finished] Task completed: Deadlock Actor A
+[Running] Executing task: Deadlock Actor B
+[Actor B] 正在获取资源 B (Write Lock)...
+[Actor B] 已锁定资源 B。正在处理...
+[Actor B] 需要读取资源 A，正在等待锁...
+[Actor B] 成功获取 A，任务完成。
+[Finished] Task completed: Deadlock Actor B
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Class Reminder (Task D)
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Class Reminder (Task D)
+[Task] Added task: Deadlock Actor A
+[Task] Added task: Deadlock Actor B
+[Task] Added task: Class Reminder (Task D)
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Running] Executing task: Class Reminder (Task D)
+[Finished] Task completed: Class Reminder (Task D)
+[Task] Added task: Class Reminder (Task D)
+[Task] Added task: Class Reminder (Task D)
+[Running] Executing task: Class Reminder (Task D)
+[Finished] Task completed: Class Reminder (Task D)
+[Task] Added task: Class Reminder (Task D)
+[Running] Executing task: Class Reminder (Task D)
+[Finished] Task completed: Class Reminder (Task D)
+[Task] Added task: Class Reminder (Task D)
+[Running] Executing task: Class Reminder (Task D)
+[Finished] Task completed: Class Reminder (Task D)
+[Task] Added task: Class Reminder (Task D)
+[Running] Executing task: Class Reminder (Task D)
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: File Backup (Task A)
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Finished] Task completed: Class Reminder (Task D)
+[Task] Added task: Class Reminder (Task D)
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Class Reminder (Task D)
+[Finished] Task completed: Class Reminder (Task D)
+[Task] Added task: Class Reminder (Task D)
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: File Backup (Task A)
+[Finished] Task completed: File Backup (Task A)
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Class Reminder (Task D)
+[Finished] Task completed: Class Reminder (Task D)
+[Task] Added task: Class Reminder (Task D)
+[Running] Executing task: Class Reminder (Task D)
+[Finished] Task completed: Class Reminder (Task D)
+[Task] Added task: Class Reminder (Task D)
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Class Reminder (Task D)
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Class Reminder (Task D)
+[Task] Added task: File Backup (Task A)
+[Running] Executing task: File Backup (Task A)
+[Finished] Task completed: File Backup (Task A)
+[Running] Executing task: Class Reminder (Task D)
+[Finished] Task completed: Class Reminder (Task D)
+[Task] Added task: Class Reminder (Task D)
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Class Reminder (Task D)
+[Running] Executing task: Class Reminder (Task D)
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Finished] Task completed: Class Reminder (Task D)
+[Task] Added task: Class Reminder (Task D)
+[Running] Executing task: Class Reminder (Task D)
+[Task] Added task: Statistics
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Running] Executing task: Statistics
+[DATA-STATS] 均值: 49.70 (方差计算中...)
+[Finished] Task completed: Statistics
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 84 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Class Reminder (Task D)
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Class Reminder (Task D)
+[Finished] Task completed: Class Reminder (Task D)
+[Task] Added task: Class Reminder (Task D)
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 82 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Class Reminder (Task D)
+[Finished] Task completed: Class Reminder (Task D)
+[Task] Added task: Class Reminder (Task D)
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 82 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Task] Added task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Class Reminder (Task D)
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Statistics
+[Running] Executing task: Statistics
+[DATA-STATS] 均值: 49.70 (方差计算中...)
+[Finished] Task completed: Statistics
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: HTTP GET
+[Running] Executing task: HTTP GET
+[DATA-HTTP] 状态: 200 OK (已保存 zen.txt)
+[Finished] Task completed: HTTP GET
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: File Backup (Task A)
+[Running] Executing task: File Backup (Task A)
+[Finished] Task completed: File Backup (Task A)
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Unsafe Task (Deadlock)
+[Task] Added task: Victim Task
+[Running] Executing task: Unsafe Task (Deadlock)
+[Unsafe] 1. 准备手动上锁 (m.lock())...
+[Unsafe] 2. 已上锁！正在执行业务...
+[Unsafe] 3. ?? 突然发生异常！(抛出 throw)
+[Error] Exception in task Unsafe Task (Deadlock): 模拟的严重错误
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Error] Exception in task Victim Task: resource deadlock would occur: resource deadlock would occur
+[Task] Added task: Safe Task (RAII)
+[Task] Added task: Victim Task
+[Running] Executing task: Safe Task (RAII)
+[Safe] 1. 准备智能上锁 (std::unique_lock)...
+[Error] Exception in task Safe Task (RAII): resource deadlock would occur: resource deadlock would occur
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Error] Exception in task Victim Task: resource deadlock would occur: resource deadlock would occur
+[Task] Added task: Statistics
+[Running] Executing task: Statistics
+[DATA-STATS] 均值: 49.70 (方差计算中...)
+[Finished] Task completed: Statistics
+[Task] Added task: File Backup (Task A)
+[Running] Executing task: File Backup (Task A)
+[Finished] Task completed: File Backup (Task A)
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: HTTP GET
+[Running] Executing task: HTTP GET
+[DATA-HTTP] 状态: 200 OK (已保存 zen.txt)
+[Finished] Task completed: HTTP GET
+[Task] Added task: Unsafe Task (Deadlock)
+[Task] Added task: Victim Task
+[Running] Executing task: Unsafe Task (Deadlock)
+[Unsafe] 1. 准备手动上锁 (m.lock())...
+[Error] Exception in task Unsafe Task (Deadlock): resource deadlock would occur: resource deadlock would occur
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Error] Exception in task Victim Task: resource deadlock would occur: resource deadlock would occur
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 75 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: HTTP GET
+[Running] Executing task: HTTP GET
+[DATA-HTTP] 状态: 200 OK (已保存 zen.txt)
+[Finished] Task completed: HTTP GET
+[Task] Added task: File Backup (Task A)
+[Running] Executing task: File Backup (Task A)
+[Finished] Task completed: File Backup (Task A)
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 85 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: File Backup (Task A)
+[Running] Executing task: File Backup (Task A)
+[Finished] Task completed: File Backup (Task A)
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 83 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: File Backup (Task A)
+[Running] Executing task: File Backup (Task A)
+[Finished] Task completed: File Backup (Task A)
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 82 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 83 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 82 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 113 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 117 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 116 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 103 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 130 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 93 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: File Backup (Task A)
+[Running] Executing task: File Backup (Task A)
+[Finished] Task completed: File Backup (Task A)
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 81 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 83 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 95 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 92 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 89 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Unsafe Task (Deadlock)
+[Task] Added task: Victim Task
+[Running] Executing task: Unsafe Task (Deadlock)
+[Unsafe] 1. 准备手动上锁 (m.lock())...
+[Error] Exception in task Unsafe Task (Deadlock): resource deadlock would occur: resource deadlock would occur
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Error] Exception in task Victim Task: resource deadlock would occur: resource deadlock would occur
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 75 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 75 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Statistics
+[Running] Executing task: Statistics
+[DATA-STATS] 均值: 51.00 (方差计算中...)
+[Finished] Task completed: Statistics
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 79 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: HTTP GET
+[Running] Executing task: HTTP GET
+[DATA-HTTP] 状态: 200 OK (已保存 zen.txt)
+[Finished] Task completed: HTTP GET
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Safe Task (RAII)
+[Task] Added task: Victim Task
+[Running] Executing task: Safe Task (RAII)
+[Safe] 1. 准备智能上锁 (std::unique_lock)...
+[Error] Exception in task Safe Task (RAII): resource deadlock would occur: resource deadlock would occur
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Error] Exception in task Victim Task: resource deadlock would occur: resource deadlock would occur
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 78 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Safe Task (RAII)
+[Task] Added task: Victim Task
+[Running] Executing task: Safe Task (RAII)
+[Safe] 1. 准备智能上锁 (std::unique_lock)...
+[Safe] 2. 已上锁！正在执行业务...
+[Safe] 3. ?? 突然发生异常！(抛出 throw)
+[Error] Exception in task Safe Task (RAII): 模拟的严重错误
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Victim] ? 成功拿到锁！说明之前没有死锁。
+[Finished] Task completed: Victim Task
+[Task] Added task: Unsafe Task (Deadlock)
+[Task] Added task: Victim Task
+[Running] Executing task: Unsafe Task (Deadlock)
+[Unsafe] 1. 准备手动上锁 (m.lock())...
+[Unsafe] 2. 已上锁！正在执行业务...
+[Unsafe] 3. ?? 突然发生异常！(抛出 throw)
+[Error] Exception in task Unsafe Task (Deadlock): 模拟的严重错误
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Error] Exception in task Victim Task: resource deadlock would occur: resource deadlock would occur
+[Task] Added task: Unsafe Task (Deadlock)
+[Task] Added task: Victim Task
+[Running] Executing task: Unsafe Task (Deadlock)
+[Unsafe] 1. 准备手动上锁 (m.lock())...
+[Error] Exception in task Unsafe Task (Deadlock): resource deadlock would occur: resource deadlock would occur
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Error] Exception in task Victim Task: resource deadlock would occur: resource deadlock would occur
+[Task] Added task: Safe Task (RAII)
+[Task] Added task: Victim Task
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Running] Executing task: Safe Task (RAII)
+[Safe] 1. 准备智能上锁 (std::unique_lock)...
+[Safe] 2. 已上锁！正在执行业务...
+[Safe] 3. ?? 突然发生异常！(抛出 throw)
+[Error] Exception in task Safe Task (RAII): 模拟的严重错误
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Victim] ? 成功拿到锁！说明之前没有死锁。
+[Finished] Task completed: Victim Task
+[Task] Added task: Unsafe Task (Deadlock)
+[Task] Added task: Victim Task
+[Running] Executing task: Unsafe Task (Deadlock)
+[Unsafe] 1. 准备手动上锁 (m.lock())...
+[Unsafe] 2. 已上锁！正在执行业务...
+[Unsafe] 3. ?? 突然发生异常！(抛出 throw)
+[Error] Exception in task Unsafe Task (Deadlock): 模拟的严重错误
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Error] Exception in task Victim Task: resource deadlock would occur: resource deadlock would occur
+[Task] Added task: Safe Task (RAII)
+[Task] Added task: Victim Task
+[Running] Executing task: Safe Task (RAII)
+[Safe] 1. 准备智能上锁 (std::unique_lock)...
+[Error] Exception in task Safe Task (RAII): resource deadlock would occur: resource deadlock would occur
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Error] Exception in task Victim Task: resource deadlock would occur: resource deadlock would occur
+[Task] Added task: Statistics
+[Running] Executing task: Statistics
+[DATA-STATS] 均值: 49.70 (方差计算中...)
+[Finished] Task completed: Statistics
+[Task] Added task: File Backup (Task A)
+[Running] Executing task: File Backup (Task A)
+[Finished] Task completed: File Backup (Task A)
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Class Reminder (Task D)
+[Running] Executing task: Class Reminder (Task D)
+[Finished] Task completed: Class Reminder (Task D)
+[Task] Added task: Class Reminder (Task D)
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: File Backup (Task A)
+[Running] Executing task: File Backup (Task A)
+[Finished] Task completed: File Backup (Task A)
+[Task] Added task: Safe Task (RAII)
+[Task] Added task: Victim Task
+[Running] Executing task: Safe Task (RAII)
+[Safe] 1. 准备智能上锁 (std::unique_lock)...
+[Safe] 2. 已上锁！正在执行业务...
+[Safe] 3. ?? 突然发生异常！(抛出 throw)
+[Error] Exception in task Safe Task (RAII): 模拟的严重错误
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Victim] ? 成功拿到锁！说明之前没有死锁。
+[Finished] Task completed: Victim Task
+[Task] Added task: Unsafe Task (Deadlock)
+[Task] Added task: Victim Task
+[Running] Executing task: Unsafe Task (Deadlock)
+[Unsafe] 1. 准备手动上锁 (m.lock())...
+[Unsafe] 2. 已上锁！正在执行业务...
+[Unsafe] 3. ?? 突然发生异常！(抛出 throw)
+[Error] Exception in task Unsafe Task (Deadlock): 模拟的严重错误
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Error] Exception in task Victim Task: resource deadlock would occur: resource deadlock would occur
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Unsafe Task (Deadlock)
+[Task] Added task: Victim Task
+[Running] Executing task: Unsafe Task (Deadlock)
+[Unsafe] 1. 准备手动上锁 (m.lock())...
+[Unsafe] 2. 已上锁！正在执行业务...
+[Unsafe] 3. ?? 突然发生异常！(抛出 throw)
+[Error] Exception in task Unsafe Task (Deadlock): 模拟的严重错误
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Error] Exception in task Victim Task: resource deadlock would occur: resource deadlock would occur
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 76 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: HTTP GET
+[Running] Executing task: HTTP GET
+[DATA-HTTP] 状态: 200 OK (已保存 zen.txt)
+[Finished] Task completed: HTTP GET
+[Task] Added task: Statistics
+[Running] Executing task: Statistics
+[DATA-STATS] 均值: 49.70 (方差计算中...)
+[Finished] Task completed: Statistics
+[Running] Executing task: Matrix Calc
+[Task] Added task: Unsafe Task (Deadlock)
+[Task] Added task: Victim Task
+[DATA-MATRIX] 耗时: 80 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Unsafe Task (Deadlock)
+[Unsafe] 1. 准备手动上锁 (m.lock())...
+[Error] Exception in task Unsafe Task (Deadlock): resource deadlock would occur: resource deadlock would occur
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Error] Exception in task Victim Task: resource deadlock would occur: resource deadlock would occur
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 85 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Safe Task (RAII)
+[Task] Added task: Victim Task
+[Running] Executing task: Safe Task (RAII)
+[Safe] 1. 准备智能上锁 (std::unique_lock)...
+[Error] Exception in task Safe Task (RAII): resource deadlock would occur: resource deadlock would occur
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Error] Exception in task Victim Task: resource deadlock would occur: resource deadlock would occur
+[Running] Executing task: Matrix Calc
+[DATA-MATRIX] 耗时: 77 ms (计算完成)
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Safe Task (RAII)
+[Task] Added task: Victim Task
+[Task] Added task: Safe Task (RAII)
+[Task] Added task: Victim Task
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Running] Executing task: Safe Task (RAII)
+[Safe] 1. 准备智能上锁 (std::unique_lock)...
+[Safe] 2. 已上锁！正在执行业务...
+[Safe] 3. ?? 突然发生异常！(抛出 throw)
+[Error] Exception in task Safe Task (RAII): 模拟的严重错误
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Victim] ? 成功拿到锁！说明之前没有死锁。
+[Finished] Task completed: Victim Task
+[Running] Executing task: Safe Task (RAII)
+[Safe] 1. 准备智能上锁 (std::unique_lock)...
+[Safe] 2. 已上锁！正在执行业务...
+[Safe] 3. ?? 突然发生异常！(抛出 throw)
+[Error] Exception in task Safe Task (RAII): 模拟的严重错误
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Victim] ? 成功拿到锁！说明之前没有死锁。
+[Finished] Task completed: Victim Task
+[Task] Added task: Safe Task (RAII)
+[Task] Added task: Victim Task
+[Running] Executing task: Safe Task (RAII)
+[Safe] 1. 准备智能上锁 (std::unique_lock)...
+[Safe] 2. 已上锁！正在执行业务...
+[Safe] 3. ?? 突然发生异常！(抛出 throw)
+[Error] Exception in task Safe Task (RAII): 模拟的严重错误
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Victim] ? 成功拿到锁！说明之前没有死锁。
+[Finished] Task completed: Victim Task
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Safe Task (RAII)
+[Task] Added task: Victim Task
+[Running] Executing task: Safe Task (RAII)
+[Safe] 1. 准备智能上锁 (std::unique_lock)...
+[Safe] 2. 已上锁！正在执行业务...
+[Safe] 3. ?? 突然发生异常！(抛出 throw)
+[Error] Exception in task Safe Task (RAII): 模拟的严重错误
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Victim] ? 成功拿到锁！说明之前没有死锁。
+[Finished] Task completed: Victim Task
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Unsafe Task (Deadlock)
+[Task] Added task: Victim Task
+[Running] Executing task: Unsafe Task (Deadlock)
+[Unsafe] 1. 准备手动上锁 (m.lock())...
+[Unsafe] 2. 已上锁！正在执行业务...
+[Unsafe] 3. ?? 突然发生异常！(抛出 throw)
+[Error] Exception in task Unsafe Task (Deadlock): 模拟的严重错误
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Error] Exception in task Victim Task: resource deadlock would occur: resource deadlock would occur
+[Task] Added task: Unsafe Task (Deadlock)
+[Task] Added task: Victim Task
+[Running] Executing task: Unsafe Task (Deadlock)
+[Unsafe] 1. 准备手动上锁 (m.lock())...
+[Error] Exception in task Unsafe Task (Deadlock): resource deadlock would occur: resource deadlock would occur
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Error] Exception in task Victim Task: resource deadlock would occur: resource deadlock would occur
+[Task] Added task: Safe Task (RAII)
+[Task] Added task: Victim Task
+[Task] Added task: Safe Task (RAII)
+[Task] Added task: Victim Task
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Unsafe Task (Deadlock)
+[Task] Added task: Victim Task
+[Running] Executing task: Unsafe Task (Deadlock)
+[Unsafe] 1. 准备手动上锁 (m.lock())...
+[Unsafe] 2. 已上锁！正在执行业务...
+[Unsafe] 3. ?? 突然发生异常！(抛出 throw)
+[Error] Exception in task Unsafe Task (Deadlock): 模拟的严重错误
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Error] Exception in task Victim Task: resource deadlock would occur: resource deadlock would occur
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Safe Task (RAII)
+[Task] Added task: Victim Task
+[Running] Executing task: Safe Task (RAII)
+[Safe] 1. 准备智能上锁 (std::unique_lock)...
+[Safe] 2. 已上锁！正在执行业务...
+[Safe] 3. ?? 突然发生异常！(抛出 throw)
+[Error] Exception in task Safe Task (RAII): 模拟的严重错误
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Victim] ? 成功拿到锁！
+[Finished] Task completed: Victim Task
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Safe Task (RAII)
+[Task] Added task: Victim Task
+[Running] Executing task: Safe Task (RAII)
+[Safe] 1. 准备智能上锁 (std::unique_lock)...
+[Safe] 2. 已上锁！正在执行业务...
+[Safe] 3. ?? 突然发生异常！(抛出 throw)
+[Error] Exception in task Safe Task (RAII): 模拟的严重错误
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Victim] ? 成功拿到锁！
+[Finished] Task completed: Victim Task
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Safe Task (RAII)
+[Task] Added task: Victim Task
+[Running] Executing task: Safe Task (RAII)
+[Safe] 1. 准备智能上锁 (std::unique_lock)...
+[Safe] 2. 已上锁！正在执行业务...
+[Safe] 3. ?? 突然发生异常！(抛出 throw)
+[Error] Exception in task Safe Task (RAII): 模拟的严重错误
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Victim] ? 成功拿到锁！
+[Finished] Task completed: Victim Task
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Safe Task (RAII)
+[Task] Added task: Victim Task
+[Running] Executing task: Safe Task (RAII)
+[Safe] 1. 准备智能上锁 (std::unique_lock)...
+[Safe] 2. 已上锁！正在执行业务...
+[Safe] 3. ?? 突然发生异常！(抛出 throw)
+[Error] Exception in task Safe Task (RAII): 模拟的严重错误
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Victim] ? 成功拿到锁！
+[Finished] Task completed: Victim Task
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Safe Task (RAII)
+[Task] Added task: Victim Task
+[Running] Executing task: Safe Task (RAII)
+[Safe] 1. 准备智能上锁 (std::unique_lock)...
+[Safe] 2. 已上锁！正在执行业务...
+[Safe] 3. ?? 突然发生异常！(抛出 throw)
+[Error] Exception in task Safe Task (RAII): 模拟的严重错误
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Victim] ? 成功拿到锁！
+[Finished] Task completed: Victim Task
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Unsafe Task (Deadlock)
+[Task] Added task: Victim Task
+[Running] Executing task: Unsafe Task (Deadlock)
+[Unsafe] 1. 准备手动上锁 (m.lock())...
+[Unsafe] 2. 已上锁！正在执行业务...
+[Unsafe] 3. ?? 突然发生异常！(抛出 throw)
+[Error] Exception in task Unsafe Task (Deadlock): 模拟的严重错误
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Error] Exception in task Victim Task: resource deadlock would occur: resource deadlock would occur
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Safe Task (RAII)
+[Task] Added task: Victim Task
+[Running] Executing task: Safe Task (RAII)
+[Safe] 1. 准备智能上锁 (std::unique_lock)...
+[Safe] 2. 已上锁！正在执行业务...
+[Safe] 3. ?? 突然发生异常！(抛出 throw)
+[Error] Exception in task Safe Task (RAII): 模拟的严重错误
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Victim] ? 成功拿到锁！
+[Finished] Task completed: Victim Task
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Unsafe Task (Deadlock)
+[Task] Added task: Victim Task
+[Running] Executing task: Unsafe Task (Deadlock)
+[Unsafe] 1. 准备手动上锁 (m.lock())...
+[Unsafe] 2. 已上锁！正在执行业务...
+[Unsafe] 3. ?? 突然发生异常！(抛出 throw)
+[Error] Exception in task Unsafe Task (Deadlock): 模拟的严重错误
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Error] Exception in task Victim Task: resource deadlock would occur: resource deadlock would occur
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Safe Task (RAII)
+[Task] Added task: Victim Task
+[Running] Executing task: Safe Task (RAII)
+[Safe] 1. 准备智能上锁 (std::unique_lock)...
+[Safe] 2. 已上锁！正在执行业务...
+[Safe] 3. ?? 突然发生异常！(抛出 throw)
+[Error] Exception in task Safe Task (RAII): 模拟的严重错误
+[Running] Executing task: Victim Task
+[Victim] 我是普通任务，我想申请锁...
+[Victim] ? 成功拿到锁！
+[Finished] Task completed: Victim Task
