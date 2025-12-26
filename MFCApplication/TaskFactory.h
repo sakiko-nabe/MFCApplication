@@ -26,13 +26,26 @@ public:
         else if (type == "Backup") {
             return std::make_shared<BackupTask>();
         }
-        else if (type == "DeadlockA") return std::make_shared<DeadlockTaskA>();
-        else if (type == "DeadlockB") return std::make_shared<DeadlockTaskB>();
         // TaskFactory.h 的 CreateTask 函数里
+        // TaskFactory.h 的 CreateTask 函数内部
 
-        if (type == "Unsafe") return std::make_shared<UnsafeTask>();
-        else if (type == "Safe") return std::make_shared<SafeTask>();
-        else if (type == "Victim") return std::make_shared<VictimTask>();
+// 1. 注册崩溃演示任务
+        if (type == "Crash") return std::make_shared<CrashTask>();
+        else if (type == "SafeCrash") return std::make_shared<SafeCrashTask>();
+        else if (type == "Normal") return std::make_shared<NormalTask>();
+
+        // 2. 注册备份任务
+        else if (type == "Backup") return std::make_shared<BackupTask>();
+
+        // 3. 如果找不到
+        return nullptr;
+        // 在 CreateTask 函数里：
+
+        if (type == "Crash") return std::make_shared<CrashTask>();
+        else if (type == "SafeCrash") return std::make_shared<SafeCrashTask>();
+        else if (type == "Normal") return std::make_shared<NormalTask>();
+        else if (type == "Backup") return std::make_shared<BackupTask>();
+        // ... 其他任务 ...
         // 默认返回空或抛出异常
         return nullptr;
     }

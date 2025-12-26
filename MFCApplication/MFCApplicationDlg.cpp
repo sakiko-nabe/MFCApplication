@@ -297,21 +297,16 @@ void CMFCApplicationDlg::OnBnClickedBtnBackup()
 		AfxMessageBox(_T("备份任务已添加在E:\\请查看。\n请确保 C:\\Data 文件夹存在！"));
 	}
 }
-
 void CMFCApplicationDlg::OnBnClickedBtnTestBad()
 {
-	// ★★★ 修复点：在 CreateTask(...) 后面加上 , 2 ★★★
-	// 2 代表任务优先级，补上这个参数就不报错了
-	TaskScheduler::GetInstance()->AddTask(TaskFactory::CreateTask("Unsafe"), 2);
-	TaskScheduler::GetInstance()->AddTask(TaskFactory::CreateTask("Victim"), 2);
-
-	AfxMessageBox(_T("已启动【死锁演示】！\n请观察日志，Victim 任务会被卡死。"));
+	// 必须匹配 TaskFactory 里的字符串 "Crash" 和 "Normal"
+	TaskScheduler::GetInstance()->AddTask(TaskFactory::CreateTask("Crash"), 2);
+	TaskScheduler::GetInstance()->AddTask(TaskFactory::CreateTask("Normal"), 2);
 }
 
 void CMFCApplicationDlg::OnBnClickedBtnTestGood()
 {
-	// ★★★ 修复点：同样补上 , 2 ★★★
-	TaskScheduler::GetInstance()->AddTask(TaskFactory::CreateTask("Safe"), 2);
-	TaskScheduler::GetInstance()->AddTask(TaskFactory::CreateTask("Victim"), 2);
-
+	// 必须匹配 TaskFactory 里的字符串 "SafeCrash" 和 "Normal"
+	TaskScheduler::GetInstance()->AddTask(TaskFactory::CreateTask("SafeCrash"), 2);
+	TaskScheduler::GetInstance()->AddTask(TaskFactory::CreateTask("Normal"), 2);
 }
