@@ -74,6 +74,8 @@ MultiTaskScheduler/
 ├── README.md                   # 项目说明文档
 └── MultiTaskScheduler.sln      # VS2026 解决方案
 
+---
+
 ## 📸 运行结果截图 (Run Results)
 
 <img width="651" height="545" alt="image" src="https://github.com/user-attachments/assets/baa4578f-fe7f-4f7b-8cd4-64398bbc8ff0" />
