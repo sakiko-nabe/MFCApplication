@@ -1,4 +1,7 @@
 # MFC Lightweight Multi-task Scheduler
+## 结果
+
+<img width="1147" height="603" alt="微信图片_20251226181826_171_53" src="https://github.com/user-attachments/assets/dbd2063e-cb9c-4d8e-ba7d-bb6200c92f4f" />
 
 ## 📖 项目简介 (Introduction)
 
@@ -76,8 +79,6 @@ MultiTaskScheduler/
 
 
 
-## 结果
 
-<img width="1147" height="603" alt="微信图片_20251226181826_171_53" src="https://github.com/user-attachments/assets/dbd2063e-cb9c-4d8e-ba7d-bb6200c92f4f" />
 
 
