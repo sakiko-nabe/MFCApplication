@@ -1,4 +1,6 @@
 # MFC Lightweight Multi-task Scheduler
+<img width="650" height="544" alt="image" src="https://github.com/user-attachments/assets/6090834e-8cd5-4666-9c51-a858c39cc7a8" />
+
 ## 📖 项目简介 (Introduction)
 
 本项目是一个基于 **MFC (Microsoft Foundation Classes)** 的轻量级多任务调度系统。项目采用 **三层架构** 设计，支持一次性任务、延迟任务和周期性任务的并发执行。
@@ -72,10 +74,3 @@ MultiTaskScheduler/
 │   └── ai_logs/                # AI 辅助编程日志
 ├── README.md                   # 项目说明文档
 └── MultiTaskScheduler.sln      # VS2026 解决方案
-
-
-
-
-<img width="654" height="545" alt="image" src="https://github.com/user-attachments/assets/f27eeba2-48b1-4ed6-8454-79a92e265451" />
-
-
