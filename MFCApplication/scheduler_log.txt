@@ -5346,3 +5346,98 @@
 [Normal B] 我是普通任务B，我想申请锁...
 [Normal B] 成功拿到锁！
 [Finished] Task completed: Normal Task B
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Crash Task (Unsafe)
+[Task] Added task: Normal Task B
+[Running] Executing task: Crash Task (Unsafe)
+[Crash A] 正在手动上锁 (lock)...
+[Crash A] 发生严重内存错误！程序即将跳出...
+[Error] Exception in task Crash Task (Unsafe): Critical Memory Error
+[Running] Executing task: Normal Task B
+[Normal B] 我是普通任务B，我想申请锁...
+[Error] Exception in task Normal Task B: resource deadlock would occur: resource deadlock would occur
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Safe Crash Task
+[Task] Added task: Normal Task B
+[Running] Executing task: Safe Crash Task
+[Safe A] 正在智能上锁 (unique_lock)...
+[Safe A] 发生严重内存错误！准备跳出...
+[Error] Exception in task Safe Crash Task: Critical Memory Error (Safe)
+[Running] Executing task: Normal Task B
+[Normal B] 我是普通任务B，我想申请锁...
+[Normal B] 成功拿到锁！
+[Finished] Task completed: Normal Task B
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Crash Task (Unsafe)
+[Task] Added task: Normal Task B
+[Running] Executing task: Crash Task (Unsafe)
+[Crash A] 正在手动上锁 (lock)...
+[Crash A] 发生严重内存错误！程序即将跳出...
+[Error] Exception in task Crash Task (Unsafe): Critical Memory Error
+[Running] Executing task: Normal Task B
+[Normal B] 我是普通任务B，我想申请锁...
+[Error] Exception in task Normal Task B: resource deadlock would occur: resource deadlock would occur
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Safe Crash Task
+[Task] Added task: Normal Task B
+[Running] Executing task: Safe Crash Task
+[Safe A] 正在智能上锁 (unique_lock)...
+[Safe A] 发生严重内存错误！准备跳出...
+[Error] Exception in task Safe Crash Task: Critical Memory Error (Safe)
+[Running] Executing task: Normal Task B
+[Normal B] 我是普通任务B，我想申请锁...
+[Normal B] 成功拿到锁！
+[Finished] Task completed: Normal Task B
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Data Stats
+[Running] Executing task: Data Stats
+[Stats] 正在分析数据...
+[Finished] Task completed: Data Stats
+[Task] Added task: File Backup
+[Running] Executing task: File Backup
+[Backup] 正在启动 PowerShell 备份...
+[Backup] ? 备份流程结束。
+[Finished] Task completed: File Backup
+[Task] Added task: HTTP Request
+[Running] Executing task: HTTP Request
+[HTTP] 正在抓取数据...
+[HTTP] 数据获取成功。
+[Finished] Task completed: HTTP Request
+[Task] Added task: Matrix Calc
+[Running] Executing task: Matrix Calc
+[Matrix] 正在进行矩阵乘法运算...
+[Matrix] 运算完成。结果已生成。
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Task] Added task: Class Reminder
+[Running] Executing task: Matrix Calc
+[Matrix] 正在进行矩阵乘法运算...
+[Matrix] 运算完成。结果已生成。
+[Finished] Task completed: Matrix Calc
+[Task] Added task: Matrix Calc
+[Running] Executing task: Class Reminder
+[Reminder] 检查课程表中...
+[System] Scheduler Started.
+[System] Watchdog Monitor Started.
+[Task] Added task: Crash Task (Unsafe)
+[Task] Added task: Normal Task B
+[Running] Executing task: Crash Task (Unsafe)
+[Crash A] 正在手动上锁 (lock)...
+[Crash A] 发生严重内存错误！程序即将跳出...
+[Error] Exception in task Crash Task (Unsafe): Critical Memory Error
+[Running] Executing task: Normal Task B
+[Normal B] 我是普通任务B，我想申请锁...
+[Error] Exception in task Normal Task B: resource deadlock would occur: resource deadlock would occur
+[Task] Added task: Safe Crash Task
+[Task] Added task: Normal Task B
+[Running] Executing task: Safe Crash Task
+[Safe A] 正在智能上锁 (unique_lock)...
+[Error] Exception in task Safe Crash Task: resource deadlock would occur: resource deadlock would occur
+[Running] Executing task: Normal Task B
+[Normal B] 我是普通任务B，我想申请锁...
+[Error] Exception in task Normal Task B: resource deadlock would occur: resource deadlock would occur
